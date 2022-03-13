@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 
-- 🐧 腾讯全栈攻城狮，腾讯云云开发高级布道师，编程知识博主
-- 👨‍💻 经历：<a href="https://www.bilibili.com/read/cv11481506" target="_blank">关于我，19 线程序员小 UP</a>
-- 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">编程导航</a> | <a href="https://github.com/liyupi/mianshiya" target="_blank">面试鸭</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">免费编程资源大全</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">求星星 ✨</a>
-- 🌱 干货：<a href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png" target="_blank">公众号『 程序员鱼皮 』</a>
-- 😺 视频：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员鱼皮</a> | 抖音 coder_yupi
-- 💬 微信：liyupi66
-- 🤔 问题：<a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">知乎 @程序员鱼皮</a>
-- 👭 自助加微信编程群：<a target="_blank" href="https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png">公众号『 程序员鱼皮 』</a>
-- 👬 QQ 千人编程交流群：1051340630 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Aevn1r1U-DJ7ajBLBjed7VmLV2ZW06hx&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="和鱼皮一起学编程的朋友们" title="和鱼皮一起学编程的朋友们"></a>
+- 🤔 一名懂前端 数据采集的PHP开发攻城狮.行走在全栈的路上!
+- 👨‍💻 经历：北漂两年 做过大数据查询存储 高并发|使用自研建站系统建过100+个站
+- 🏡 作品：<a href="https://github.com/liyupi/code-nav" target="_blank">Ecms建站系统</a> | <a href="https://github.com/liyupi/mianshiya" target="_blank">TDK巡逻狗</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">400购号网</a> | <a href="https://github.com/liyupi/free-programming-resources" target="_blank">码客部落 ✨</a>
+- 💬 邮箱：ehua999@163.com
+
 
 ## 今年汇总 ✨
 
