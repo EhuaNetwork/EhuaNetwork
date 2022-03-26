@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🤔 一名懂前端 数据采集的PHP开发攻城狮.行走在全栈的路上!
+- 🤔 一名略懂前端与数据采集的PHP开发攻城狮.行走在全栈的路上!
 - 👨‍💻 经历：北漂两年 做过大数据查询存储 高并发|使用自研建站系统建过100+个站
 - 🏡 作品：<a href="https://github.com/EhuaNetwork/ecms" target="_blank">Ecms建站系统</a> | <a href="https://github.com/EhuaNetwork/ecms" target="_blank">TDK巡逻狗</a> | <a href="https://github.com/EhuaNetwork/ecms" target="_blank">400购号网</a> | <a href="https://github.com/EhuaNetwork/ecms" target="_blank">码客部落 ✨</a>
 - 💬 邮箱：ehua999@163.com
